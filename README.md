@@ -15,7 +15,7 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 - Agile Testing Days - Germany
 - Agile India - Bengaluru
 - STeP-IN forum
-- [The Test Tribe](https://www.thetesttribe.com/)
+- The Test Tribe [TTT](https://www.thetesttribe.com/)
 
 ### Contribution to Organising Conference ✍️
 - Selenium Conference - India [2020, 2018, 2016]
