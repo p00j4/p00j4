@@ -40,8 +40,8 @@ Do you relate with this?
 
 ### My Charging Pods
 
-- [Pure music](https://www.youtube.com/channel/UCKqysqREYJzPMlK5GHduySQ)
-- [Fitness](https://www.youtube.com/c/fitbeat)
+- [Pure singing](https://www.youtube.com/channel/UCKqysqREYJzPMlK5GHduySQ)
+- [Fitness for Life](https://www.youtube.com/c/fitbeat)
 - [Indian Raga](https://www.youtube.com/user/indianragaproject)
 - [One Nation by Amit Trivedi crew](https://www.youtube.com/watch?v=PFW6fHmYcdM)
 
