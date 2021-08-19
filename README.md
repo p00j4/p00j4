@@ -11,7 +11,7 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 ### Speaking Engagements 🎤
 - Selenium Conference - [India](https://2018.seleniumconf.in/#anchor-speakers), [London](https://2016.seleniumconf.co.uk/sessions), [Chicago](https://www.seleniumconf.us/talks#pooja-shah) Editions
 - RootConf by HasGeek - [India](https://hasgeek.com/rootconf/2018/schedule/dealing-with-legacy-systems-q-a-session-with-pooja-shah-kashif-razzaqui-and-vivek-sridhar-9WtYXsn4SfAJjfR2LDwP1E)
-- European Testing Conf - Amsterdam
+- European Testing Conf - [ETC](https://europeantestingconference.eu/2018/speakers/) Amsterdam
 - Agile Testing Days - [ATD](https://p00j4.github.io/#where_i_am) Germany
 - Agile India - Bengaluru
 - STeP-IN forum
