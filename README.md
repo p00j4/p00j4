@@ -19,7 +19,7 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 
 ### Contribution to Organising Conference ✍️
 - Selenium Conference - India [2020, 2018, 2016]
-- Appium Conf - India [2019]
+- Appium Conf - India [2019, 2021]
 - RootConf India [2018]
 
 ### Stand up with 🙌
