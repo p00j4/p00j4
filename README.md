@@ -18,8 +18,8 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 - The Test Tribe [TTT](https://www.thetesttribe.com/testflix/)
 
 ### Contribution to Organising Conference ✍️
-- Selenium Conference - India [2020, 2018, 2016]
-- Appium Conf - India [2019, 2021]
+- Selenium Conference - India [[2020](https://confengine.com/conferences/selenium-conf-2020/program-committee), 2018, 2016]
+- Appium Conf - India [2019, [2021](https://confengine.com/conferences/appium-conf-2021/program-committee)]
 - RootConf India [2018]
 
 ### Stand up with 🙌
