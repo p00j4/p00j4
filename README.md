@@ -22,6 +22,14 @@ Driven by curiosity to learn & share new things every day, I pen them, open-sour
 - Appium Conf - India [2019, [2021](https://confengine.com/conferences/appium-conf-2021/program-committee)]
 - RootConf India [2018]
 
+### Championships
+- Virtuoso Hackathon: we won for 2 categories - Automation main challenge and API hacking into CI/CD. Links coming up.
+- [Cignithon](https://www.linkedin.com/feed/update/urn:li:activity:6840931727481860096/) for automation and bug finding - [1st]
+- Hackathon by [AccelQ](https://www.linkedin.com/feed/update/urn:li:activity:6799624938362937344/): First runner up (3rd)
+- Moolympics #2 [Experimenting with Selectors && Beliefs](https://www.linkedin.com/feed/update/urn:li:activity:6778308142108409856/) [1st]
+- Moolympics #1 [𝐇𝐨𝐰 𝐈/𝐰𝐞 𝐩𝐫𝐞𝐯𝐞𝐧𝐭𝐞𝐝 𝐛𝐮𝐠𝐬](https://www.linkedin.com/feed/update/urn:li:activity:6766977755889324032/) [1st]
+- Testathon - [we rocked](https://twitter.com/moengage/status/1093808863537590273?s=20) as a team and as an individual 
+
 ### Stand up with 🙌
 Some of the work I highly recommend (because they are really good)
 - [Selectors Hub](https://www.selectorshub.com/) - one stop solution for easier life in UI Automation
