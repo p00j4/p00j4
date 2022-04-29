@@ -52,7 +52,7 @@ Do you relate with this?
 - [Fitness for Life](https://www.youtube.com/c/fitbeat)
 - [Indian Raga](https://www.youtube.com/user/indianragaproject)
 - [One Nation by Amit Trivedi crew](https://www.youtube.com/watch?v=PFW6fHmYcdM)
-
+- Languages that I can manage: Hindi, English, Rajasthani, Marwadi, Kunchum Telugu, Swalpa Kannda, Malyalam (in next life, my bestie said)
 <!--
 **p00j4/p00j4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
