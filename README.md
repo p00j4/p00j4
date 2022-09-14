@@ -1,6 +1,7 @@
 ### Hi there 👋
-I'm Pooja, a developer turned, an automation nerd and open source enthusiast. I love brainstorming and implementing crazy ideas to figure out ways to improve the product quality. 
-Having a blend of dev, qa & devops mindset, I strive to bridge the gaps between all the teams to attain the best results, i.e. Developer and Engineering Efficiency and Product Excellence.
+I'm Pooja, a developer turned, automation nerd and open source enthusiast. 
+I love brainstorming and implementing crazy ideas to figure out ways to improve the product quality. 
+Having a blend of Dev, QA & DevOps mindset, I strive to bridge the gaps between all the teams to attain the best results, i.e. Developer and Engineering Efficiency and Product Excellence.
 Driven by curiosity to learn & share new things every day, I pen them, open-source, record tutorials and talk about them at open conferences, some of the glimpses can be found here:
 
 - **I'm most excited** about: [Alice | Shield](https://github.com/p00j4/alice) - A bot which solves Human [Communication Problems](https://p00j4.github.io/#alice), and shields from buggy code by enabling **Continuos Integration** safety pipeline.
